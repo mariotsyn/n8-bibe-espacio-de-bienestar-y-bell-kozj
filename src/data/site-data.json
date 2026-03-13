@@ -1,52 +1,53 @@
 {
   "business": {
     "name": "BiBe Espacio de Bienestar y Belleza",
-    "tagline": "Tu oasis de bienestar y belleza en Dénia.",
-    "description": "En BiBe, fusionamos la vanguardia en belleza con un ambiente de relajación para que cada visita sea una experiencia única. Nuestro equipo de expertos está dedicado a realzar tu belleza natural y proporcionarte un bienestar integral. Descubre un espacio donde cuidarte es un placer.",
+    "tagline": "Tu templo de belleza y bienestar en Dénia.",
+    "description": "BiBe es un espacio exclusivo diseñado para realzar tu esencia natural. Combinamos técnicas vanguardistas de peluquería y estética en un ambiente de calma total.",
     "phone": "+34 621 08 70 55",
     "address": "Pg. del Saladar, 58, 03700 Dénia, Alicante, España",
-    "email": "info@bibe.es",
+    "email": "info@bibedenia.es",
     "rating": 4.8,
-    "reviewCount": 114,
+    "reviewCount": 69,
     "hours": ["Monday: 9:30 AM – 7:00 PM","Tuesday: 9:30 AM – 7:00 PM","Wednesday: 9:30 AM – 7:00 PM","Thursday: 9:30 AM – 7:00 PM","Friday: 9:30 AM – 7:00 PM","Saturday: Closed","Sunday: Closed"]
   },
   "theme": {
-    "primary": "#B1A296",
-    "secondary": "#2C3E50",
-    "accent": "#E7A977",
+    "primary": "#C5A089",
+    "secondary": "#2D2926",
+    "accent": "#E4C5AF",
     "mode": "dark"
   },
   "hero": {
-    "headline": "Descubre tu Mejor Versión: Bienestar y Belleza Integral.",
-    "subheadline": "En BiBe, cada tratamiento es un viaje hacia tu resplandor. Permítete un momento de cuidado experto y resultados excepcionales en Dénia.",
-    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
-    "cta2": { "text": "Ver Servicios", "href": "#services" },
-    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ_YHOzgQbnhIRIO8RzTkD9-8/photos/ATCDNfWo3saDPWEISkJw0lQVIcucne4nMVGh84LowTTlCVQAfOwLbpjkHY78KW0ndCLsIK1h1MzX_SQykHDRCujj8Z9DmyDEDH133Upxg3lXn7Ubo_eIfNsM7qh6wSUVykwHHwxhxUF9WkC_2pi7uZELd6kPyvNp2kdfgj18QbC9VyHNX2HYqZYkYkmHskfpUh-YV8O5lxWQvelbi3xv6QpFXEErM_3hZ6HPZg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+    "headline": "Eleva tu belleza en el corazón de Dénia",
+    "subheadline": "Descubre un refugio de sofisticación donde la peluquería de autor y el bienestar personal se encuentran para ti.",
+    "cta1": { "text": "Reservar Cita", "href": "#contact" },
+    "cta2": { "text": "Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ_YHOzgQbnhIRIO8RzTkD9-8/photos/ATCDNfWo3saDPWEISkJw0lQVIcucne4nMVGh84LowTTlCVQAfOwLbpjkHY78KW0PVeEM67GSPJ_-yzhejCBHu17AkOoeKbOJEQ-1Uh4C6FZkNY4jiKGuezOl_5qErJzx58Y0ndCLsIK1h1MzX_SQykHDRCujj8Z9DmyDEDH133Upxg3lXn7Ubo_eIfNsM7qh6wSUVykwHHwxhxUF9WkC_2pi7uZELd6kPyvNp2kdfgj18QbC9VyHNX2HYqZYkYkmHskfpUh-YV8O5lxWQvelbi3xv6QpFXEErM3swbRXM_3hZ6HPZg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
   },
   "services": [
-    { "icon": "💇‍♀️", "title": "Peluquería de Vanguardia", "description": "Transforma tu cabello con las últimas tendencias en cortes, color y tratamientos. Te asesoramos para realzar tu estilo y personalidad." },
-    { "icon": "💅", "title": "Manicura y Pedicura Premium", "description": "Consiente tus manos y pies con nuestros servicios de manicura y pedicura. Utilizamos productos de alta calidad para un acabado impecable y duradero." },
-    { "icon": "✨", "title": "Tratamientos Faciales Personalizados", "description": "Revitaliza tu piel con tratamientos faciales adaptados a tus necesidades. Logra una piel radiante, hidratada y visiblemente más joven." },
-    { "icon": "💆🏻‍♀️", "title": "Masajes Relajantes y Bienestar", "description": "Desconecta del estrés y sumérgete en un estado de calma profunda. Nuestros masajes corporales te ayudarán a relajar cuerpo y mente." }
+    { "icon": "✂️", "title": "Peluquería de Autor", "description": "Cortes y coloraciones personalizadas que definen tu estilo único. Utilizamos productos premium para cuidar la salud de tu cabello." },
+    { "icon": "✨", "title": "Tratamientos Faciales", "description": "Revitaliza tu piel con nuestros rituales de belleza profunda. Resultados visibles desde la primera sesión en un entorno relajante." },
+    { "icon": "💅", "title": "Manicura y Pedicura", "description": "Cuidado detallado de tus manos y pies con acabados impecables. Elegancia y tendencia en cada detalle de nuestro servicio." },
+    { "icon": "🧘", "title": "Bienestar Integral", "description": "Un espacio pensado para desconectar del estrés diario. Déjate mimar por manos expertas que buscan tu equilibrio interior." }
   ],
   "about": {
-    "title": "Un Espacio Creado para Ti",
-    "text": "En BiBe Espacio de Bienestar y Belleza, creemos que cuidarte es esencial. Desde nuestros inicios, nos hemos dedicado a crear un santuario en Dénia donde la belleza se encuentra con el bienestar, ofreciendo un servicio excepcional y una atención personalizada que nos distingue.\n\nNuestro equipo está formado por profesionales apasionados y altamente cualificados, comprometidos con tu satisfacción. Utilizamos productos de primera línea y las técnicas más innovadoras para garantizar resultados que superen tus expectativas, siempre en un ambiente de calidez y confianza.\n\nMás allá de los tratamientos, en BiBe buscamos que cada visita sea una experiencia gratificante y reparadora. Te invitamos a descubrir un lugar donde cada detalle está pensado para tu confort y para realzar tu belleza y equilibrio interior.",
+    "title": "Bienvenida a BiBe: Donde todo empieza contigo",
+    "text": "En BiBe Espacio de Bienestar y Belleza, creemos que cuidarse no es un lujo, sino una necesidad vital. Ubicados en pleno centro de Dénia, hemos creado un santuario donde la estética se fusiona con la tranquilidad.\n\nNuestro equipo de profesionales está comprometido con la excelencia y la personalización. Cada tratamiento es una experiencia diseñada para que te sientas renovada, potenciando tu luz natural con las técnicas más avanzadas y un trato humano inigualable.",
     "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
   },
   "gallery": [
-    { "url": "https://places.googleapis.com/v1/places/ChIJ_YHOzgQbnhIRIO8RzTkD9-8/photos/ATCDNfWo3saDPWEISkJw0lQVIcucne4nMVGh84LowTTlCVQAfOwLbpjkHY78KW0PVeEM67GSPJ_-yzhejCBHu17AkOoeKbOJEQ-1Uh4C6FZkNY4jiKGuezOl_5qErJzx58Y0ndCLsIK1h1MzX_SQykHDRCujj8Z9DmyDEDH133Upxg3lXn7Ubo_eIfNsM7qh6wSUVykwHHwxhxUF9WkC_2pi7uZELd6kPyvNp2kdfgj18QbC9VyHNX2HYqZYkYkmHskfpUh-YV8O5lxWQvelbi3xv6QpFXEErM_3hZ6HPZg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior moderno y acogedor de BiBe Espacio de Bienestar y Belleza" },
-    { "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80", "alt": "Detalle de productos de belleza de alta calidad en BiBe" },
-    { "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80", "alt": "Preparación para un tratamiento facial relajante en BiBe" }
+    { "url": "https://places.googleapis.com/v1/places/ChIJ_YHOzgQbnhIRIO8RzTkD9-8/photos/ATCDNfWo3saDPWEISkJw0lQVIcucne4nMVGh84LowTTlCVQAfOwLbpjkHY78KW0PVeEM67GSPJ_-yzhejCBHu17AkOoeKbOJEQ-1Uh4C6FZkNY4jiKGuezOl_5qErJzx58Y0ndCLsIK1h1MzX_SQykHDRCujj8Z9DmyDEDH133Upxg3lXn7Ubo_eIfNsM7qh6wSUVykwHHwxhxUF9WkC_2pi7uZELd6kPyvNp2kdfgj18QbC9VyHNX2HYqZYkYkmHskfpUh-YV8O5lxWQvelbi3xv6QpFXEErM3swbRXM_3hZ6HPZg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior del salón BiBe" },
+    { "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80", "alt": "Tratamiento de belleza" },
+    { "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80", "alt": "Detalle de peluquería" },
+    { "url": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=1200&q=80", "alt": "Ambiente de relajación" }
   ],
   "testimonials": [
-    { "name": "Marta García", "stars": 5, "text": "¡Mi lugar favorito en Dénia! Siempre salgo de BiBe con el cabello perfecto y sintiéndome renovada. El trato es impecable y el ambiente muy relajante." },
-    { "name": "Javier Ruiz", "stars": 5, "text": "Profesionalidad y atención al detalle. Me hicieron un cambio de look espectacular y la experiencia fue de 10. Totalmente recomendable." },
-    { "name": "Ana López", "stars": 4, "text": "Disfruté mucho de mi manicura y pedicura, muy cuidadosas. Hubo un pequeño retraso, pero la calidad del servicio lo compensó con creces." }
+    { "name": "Elena Martínez", "stars": 5, "text": "El mejor salón de Dénia. Salgo siempre encantada con mi color y el trato es maravilloso." },
+    { "name": "Sofía García", "stars": 5, "text": "Un espacio de paz. Los tratamientos faciales son espectaculares, totalmente recomendable." },
+    { "name": "Marta López", "stars": 4, "text": "Profesionalidad de 10. Se nota que cuidan hasta el último detalle en cada servicio." }
   ],
   "contact": {
-    "title": "Transforma tu Bienestar. Reserva tu Cita Hoy.",
-    "subtitle": "Estamos deseando atenderte y crear tu momento perfecto de belleza y relajación. Contáctanos sin compromiso.",
+    "title": "¿Lista para tu momento BiBe?",
+    "subtitle": "Reserva tu cita por WhatsApp o ven a visitarnos en el Pg. del Saladar. ¡Te esperamos!",
     "whatsappNumber": "+34 621 08 70 55",
     "showMap": true,
     "mapQuery": "BiBe Espacio de Bienestar y Belleza Pg. del Saladar, 58, 03700 Dénia, Alicante, España"
